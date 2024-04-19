@@ -1,0 +1,7 @@
+P2
+#VERTICAL SOBEL KERNEL
+3 3
+255
+-1 -2 -1
+0 0 0
+1 2 1
