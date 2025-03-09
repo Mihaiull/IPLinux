@@ -16,5 +16,7 @@
 #### - Gamma Correction:
 ![gamma](samples/showcase/gamma5.png)
 
-
+#### - HaHa FuNNy:
+![fail1](samples/showcase/brightness.png)
+![fail1](samples/showcase/brightness7.png)
 
